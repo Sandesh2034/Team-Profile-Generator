@@ -40,7 +40,6 @@ As a manager, I often need to quickly generate a webpage that displays my team's
 
 ## Credits
 This project was created by Sandesh Gurung as part of a coding assignment.
-Website:
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
